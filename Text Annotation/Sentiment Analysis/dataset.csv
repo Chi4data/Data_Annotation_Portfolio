@@ -1,0 +1,12 @@
+| ID |Text|Sentiment|
+  
+| 1 |"The customer support team was very helpful and resolved my issue quickly."| Positive |
+| 2 |"The product stopped working after two days, and I am very disappointed."| Negative |
+| 3 |"I received my order yesterday."| Neutral |
+| 4 |"The customer support team was very helpful although they were very slow in resolving my issues."| Neutral |
+| 5 |"This phone exceeded my expectations. I love it!"| Positive |
+| 6 |"The delivery was delayed for five days."| Negative |
+| 7 |"The meeting starts at 10:00 AM tomorrow."| Neutral |
+| 8 |"The application is easy to use and very reliable."| Positive |
+| 9 |"I regret buying this product."| Neutral |
+| 10 |"The package arrived this morning."| Neutral |

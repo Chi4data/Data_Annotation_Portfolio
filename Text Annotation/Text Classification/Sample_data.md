@@ -12,3 +12,9 @@ CATEGORY: | ACCOUNT SUPPORT | BILLING | DELIVERY | RETURNS |
 4. I would like to return the shoes because they don't fit. | RETURNS | The customer is requesting to return a product. |
 
 5. Can I change the email address linked to my account? | ACCOUNT SUPPORT | The customer wants to update the email address associated with their account. |
+
+6. I was charged twice, and now I can't log into my account. | Billing | The message mentions both billing and account issues, but the primary complaint is the duplicate charge. |
+   
+8. I want to return my laptop because it arrived damaged. | Returns | The customer is requesting a return, even though the message also mentions the item's condition. |
+ 
+10. My package arrived today, but I was billed twice for it. | Billing | The delivery was completed, but the customer's main concern is the incorrect charge. |

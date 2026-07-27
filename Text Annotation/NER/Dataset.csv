@@ -1,0 +1,18 @@
+Named Entity Recognition Sample
+
+|PERSON|LOCATION|ORGANIZATION|DATE|MONEY|EMAIL|PHONE NO.|
+
+1. John Smith|PERSON| works at Microsoft|ORGANIZATION in Lagos|LOCATION|.
+
+2. The meeting is scheduled for 15 July 2026|DATE|.
+  
+3. Sarah|PERSON| paid ₦150,000|MONEY| for the laptop.
+  
+4. Send your CV to careers@techhub.com|EMAIL.
+  
+5. Call +234 801 234 5678|PHONE NO.| for more information.
+  
+6. Amina|PERSON| studies at the University of Lagos|ORGANIZATION|.
+  
+7. Dangote Group|ORGANIZATION| announced a new investment in Abuja|LOCATION|.
+
